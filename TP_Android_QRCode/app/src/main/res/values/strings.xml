@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP_Android_QRCode</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prénom :</string>
+    <string name="age">Âge :</string>
+    <string name="adresse">Adresse :</string>
+    <string name="scanner">Scanner</string>
+</resources>
